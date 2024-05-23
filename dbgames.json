@@ -1,25 +1,32 @@
 {
   "produtos": [
     {
-      "id": "1",
+      "id": 1,
       "produto": "Jogo 1",
       "descricao": "Descrição do jogo 1",
       "foto": "jogo1.PNG",
-      "preco": 295
+      "preco": 290
     },
     {
-      "id": "2",
+      "id": 2,
       "produto": "Jogo 2",
       "descricao": "Descrição do jogo 2",
       "foto": "jogo2.PNG",
       "preco": 199
     },
     {
-      "id": "3",
-      "produto": "Jogo 3",
-      "descricao": "Descrição do jogo 3",
+      "id": 3,
+      "produto": "jogo 3",
+      "descricao": "Descrição do Jogo 3",
       "foto": "jogo3.PNG",
-      "preco": 297
+      "preco": 302
+    },
+    {
+      "id": 4,
+      "produto": "Jogo 4",
+      "descricao": "Descrição do jogo 4",
+      "foto": "jogo4.png",
+      "preco": 213
     }
   ]
 }
